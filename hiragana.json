@@ -1,0 +1,111 @@
+[
+  {
+    "section": "청음",
+    "description": "청음이란 깨끗한 소리로 발음되는 것을 말한다.",
+    "rows": [
+      {
+        "row": "あ행",
+        "description": "「あいうえお」는 일본어의 모음이며, 발음은 우리말의 [아이우에오]와 비슷하다.",
+        "characters": [
+          {
+            "character": "あ",
+            "phonetic": "a",
+            "example": {
+              "word": "あり",
+              "mean": "개미"
+            }
+          },
+          {
+            "character": "い",
+            "phonetic": "i",
+            "example": {
+              "word": "いぬ",
+              "mean": "개"
+            }
+          },
+          {
+            "character": "う",
+            "phonetic": "u",
+            "example": {
+              "word": "うえ",
+              "mean": "위"
+            }
+          },
+          {
+            "character": "え",
+            "phonetic": "e",
+            "example": {
+              "word": "えき",
+              "mean": "역"
+            }
+          },
+          {
+            "character": "お",
+            "phonetic": "o",
+            "example": {
+              "word": "おに",
+              "mean": "도깨비"
+            }
+          }
+        ]
+      },
+      {
+        "row": "か행",
+        "description": "「」",
+        "contents": []
+      },
+      {
+        "row": "さ행",
+        "description": "「」",
+        "contents": []
+      },
+      {
+        "row": "た행",
+        "description": "「」",
+        "contents": []
+      },
+      {
+        "row": "な행",
+        "description": "「」",
+        "contents": []
+      },
+      {
+        "row": "は행",
+        "description": "「」",
+        "contents": []
+      },
+      {
+        "row": "ま행",
+        "description": "「」",
+        "contents": []
+      },
+      {
+        "row": "や행",
+        "description": "「」",
+        "contents": []
+      },
+      {
+        "row": "ら행",
+        "description": "「」",
+        "contents": []
+      },
+      {
+        "row": "わ행",
+        "description": "「」",
+        "contents": []
+      }
+    ]
+  },
+  {
+    "section": "탁음",
+    "description": "탁음이란 ..."
+  },
+  {
+    "section": "반탁음",
+    "description": "반탁음이란 ..."
+  },
+  {
+    "section": "요음",
+    "description": "요음이란 ..."
+  }
+]
