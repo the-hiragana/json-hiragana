@@ -5,7 +5,7 @@
     "rows": [
       {
         "row": "あ행",
-        "description": "「あいうえお」는 일본어의 모음이며, 발음은 우리말의 [아이우에오]와 비슷하다.",
+        "description": "「あ·い·う·え·お」는 일본어의 모음이며, 발음은 우리말의 [아·이·우·에·오]와 비슷하다.",
         "characters": [
           {
             "character": "あ",
@@ -51,48 +51,417 @@
       },
       {
         "row": "か행",
-        "description": "「」",
-        "contents": []
+        "description": "[ㄱ]과 [ㅋ]의 중간음으로 발음되고, 우리말의 [카·키·쿠·케·코]에 가까운 발음이다. 하지만 중간이나 끝에 오면 우리말의 [까·끼·꾸·께·꼬]에 비슷하게 발음한다.",
+        "contents": [
+          {
+            "character": "か",
+            "phonetic": "ka",
+            "example": {
+              "word": "かお",
+              "mean": "얼굴"
+            }
+          },
+          {
+            "character": "き",
+            "phonetic": "ki",
+            "example": {
+              "word": "きく",
+              "mean": "국화"
+            }
+          },
+          {
+            "character": "く",
+            "phonetic": "ku",
+            "example": {
+              "word": "くつ",
+              "mean": "구두"
+            }
+          },
+          {
+            "character": "け",
+            "phonetic": "ke",
+            "example": {
+              "word": "けむり",
+              "mean": "연기"
+            }
+          },
+          {
+            "character": "こ",
+            "phonetic": "ko",
+            "example": {
+              "word": "こま",
+              "mean": "팽이"
+            }
+          }
+        ]
       },
       {
         "row": "さ행",
-        "description": "「」",
-        "contents": []
+        "description": "우리말의 [사·시·스·세·소]와 비슷한 발음이다. 「」는 우리말의 [수]와 [스]의 중간발음이지만 [스]에 가까운 발음이다.",
+        "contents": [
+          {
+            "character": "さ",
+            "phonetic": "sa",
+            "example": {
+              "word": "さる",
+              "mean": "원숭이"
+            }
+          },
+          {
+            "character": "し",
+            "phonetic": "si",
+            "example": {
+              "word": "しか",
+              "mean": "사슴"
+            }
+          },
+          {
+            "character": "す",
+            "phonetic": "su",
+            "example": {
+              "word": "すいか",
+              "mean": "수박"
+            }
+          },
+          {
+            "character": "せ",
+            "phonetic": "se",
+            "example": {
+              "word": "せみ",
+              "mean": "매미"
+            }
+          },
+          {
+            "character": "そ",
+            "phonetic": "o",
+            "example": {
+              "word": "そら",
+              "mean": "하늘"
+            }
+          }
+        ]
       },
       {
         "row": "た행",
         "description": "「」",
-        "contents": []
+        "contents": [
+          {
+            "character": "た",
+            "phonetic": "ta",
+            "example": {
+              "word": "たこ",
+              "mean": "문어"
+            }
+          },
+          {
+            "character": "ち",
+            "phonetic": "chi",
+            "example": {
+              "word": "ちかてつ",
+              "mean": "지하철"
+            }
+          },
+          {
+            "character": "つ",
+            "phonetic": "tsu",
+            "example": {
+              "word": "つき",
+              "mean": "달"
+            }
+          },
+          {
+            "character": "て",
+            "phonetic": "te",
+            "example": {
+              "word": "てんき",
+              "mean": "날씨"
+            }
+          },
+          {
+            "character": "と",
+            "phonetic": "to",
+            "example": {
+              "word": "とけい",
+              "mean": "시계"
+            }
+          }
+        ]
       },
       {
         "row": "な행",
         "description": "「」",
-        "contents": []
+        "contents": [
+          {
+            "character": "",
+            "phonetic": "a",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          },
+          {
+            "character": "",
+            "phonetic": "i",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          },
+          {
+            "character": "",
+            "phonetic": "u",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          },
+          {
+            "character": "",
+            "phonetic": "e",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          },
+          {
+            "character": "",
+            "phonetic": "o",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          }
+        ]
       },
       {
         "row": "は행",
         "description": "「」",
-        "contents": []
+        "contents": [
+          {
+            "character": "",
+            "phonetic": "a",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          },
+          {
+            "character": "",
+            "phonetic": "i",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          },
+          {
+            "character": "",
+            "phonetic": "u",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          },
+          {
+            "character": "",
+            "phonetic": "e",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          },
+          {
+            "character": "",
+            "phonetic": "o",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          }
+        ]
       },
       {
         "row": "ま행",
         "description": "「」",
-        "contents": []
+        "contents": [
+          {
+            "character": "",
+            "phonetic": "a",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          },
+          {
+            "character": "",
+            "phonetic": "i",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          },
+          {
+            "character": "",
+            "phonetic": "u",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          },
+          {
+            "character": "",
+            "phonetic": "e",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          },
+          {
+            "character": "",
+            "phonetic": "o",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          }
+        ]
       },
       {
         "row": "や행",
         "description": "「」",
-        "contents": []
+        "contents": [
+          {
+            "character": "",
+            "phonetic": "a",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          },
+          {
+            "character": "",
+            "phonetic": "i",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          },
+          {
+            "character": "",
+            "phonetic": "u",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          },
+          {
+            "character": "",
+            "phonetic": "e",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          },
+          {
+            "character": "",
+            "phonetic": "o",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          }
+        ]
       },
       {
         "row": "ら행",
         "description": "「」",
-        "contents": []
+        "contents": [
+          {
+            "character": "",
+            "phonetic": "a",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          },
+          {
+            "character": "",
+            "phonetic": "i",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          },
+          {
+            "character": "",
+            "phonetic": "u",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          },
+          {
+            "character": "",
+            "phonetic": "e",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          },
+          {
+            "character": "",
+            "phonetic": "o",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          }
+        ]
       },
       {
         "row": "わ행",
         "description": "「」",
-        "contents": []
+        "contents": [
+          {
+            "character": "",
+            "phonetic": "a",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          },
+          {
+            "character": "",
+            "phonetic": "i",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          },
+          {
+            "character": "",
+            "phonetic": "u",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          },
+          {
+            "character": "",
+            "phonetic": "e",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          },
+          {
+            "character": "",
+            "phonetic": "o",
+            "example": {
+              "word": "",
+              "mean": ""
+            }
+          }
+        ]
       }
     ]
   },
