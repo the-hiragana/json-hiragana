@@ -1,0 +1,16 @@
+{
+  "name": "json-hiragana",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/the-hiragana/json-hiragana.git",
+  "author": "Gim YoungPhil <youngphil.gim@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "node ./data/hiragana.js"
+  },
+  "devDependencies": {
+    "csvtojson": "^1.1.7",
+    "jsonfile": "^4.0.0",
+    "underscore": "^1.8.3"
+  }
+}

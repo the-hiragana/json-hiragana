@@ -1,0 +1,557 @@
+[
+  {
+    "section": "청음",
+    "description": "청음이란 깨끗한 소리로 발음되는 것을 말한다.",
+    "kanji": "清音",
+    "ruby": "せいおん",
+    "rows": [
+      {
+        "row": "あ행",
+        "description": "「あ·い·う·え·お」는 일본어의 모음이며, 발음은 우리말의 [아·이·우·에·오]와 비슷하다.",
+        "characters": [
+          {
+            "character": "あ",
+            "phonetic": "a",
+            "word": "あり",
+            "mean": "개미"
+          },
+          {
+            "character": "い",
+            "phonetic": "i",
+            "word": "いぬ",
+            "mean": "개"
+          },
+          {
+            "character": "う",
+            "phonetic": "u",
+            "word": "うえ",
+            "mean": "위"
+          },
+          {
+            "character": "え",
+            "phonetic": "e",
+            "word": "いき",
+            "mean": "역"
+          },
+          {
+            "character": "お",
+            "phonetic": "o",
+            "word": "おに",
+            "mean": "도깨비"
+          }
+        ]
+      },
+      {
+        "row": "か행",
+        "description": "",
+        "characters": [
+          {
+            "character": "か",
+            "phonetic": "ka",
+            "word": "かお",
+            "mean": "얼굴"
+          },
+          {
+            "character": "き",
+            "phonetic": "ki",
+            "word": "きく",
+            "mean": "국화"
+          },
+          {
+            "character": "く",
+            "phonetic": "ku",
+            "word": "くつ",
+            "mean": "구두"
+          },
+          {
+            "character": "け",
+            "phonetic": "ke",
+            "word": "けむり",
+            "mean": "연기"
+          },
+          {
+            "character": "こ",
+            "phonetic": "ko",
+            "word": "こま",
+            "mean": "팽이"
+          }
+        ]
+      },
+      {
+        "row": "さ행",
+        "description": "",
+        "characters": [
+          {
+            "character": "さ",
+            "phonetic": "sa",
+            "word": "さる",
+            "mean": "원숭이"
+          },
+          {
+            "character": "し",
+            "phonetic": "si",
+            "word": "しか",
+            "mean": "사슴"
+          },
+          {
+            "character": "す",
+            "phonetic": "su",
+            "word": "すいか",
+            "mean": "수박"
+          },
+          {
+            "character": "せ",
+            "phonetic": "se",
+            "word": "せみ",
+            "mean": "매미"
+          },
+          {
+            "character": "そ",
+            "phonetic": "so",
+            "word": "そら",
+            "mean": "하늘"
+          }
+        ]
+      },
+      {
+        "row": "た행",
+        "description": "",
+        "characters": [
+          {
+            "character": "た",
+            "phonetic": "ta",
+            "word": "たこ",
+            "mean": "문어"
+          },
+          {
+            "character": "ち",
+            "phonetic": "chi",
+            "word": "ちかてつ",
+            "mean": "지하철"
+          },
+          {
+            "character": "つ",
+            "phonetic": "tsu",
+            "word": "つき",
+            "mean": "달"
+          },
+          {
+            "character": "て",
+            "phonetic": "te",
+            "word": "てんき",
+            "mean": "날씨"
+          },
+          {
+            "character": "と",
+            "phonetic": "to",
+            "word": "とけい",
+            "mean": "시계"
+          }
+        ]
+      },
+      {
+        "row": "な행",
+        "description": "",
+        "characters": [
+          {
+            "character": "な",
+            "phonetic": "na",
+            "word": "なし",
+            "mean": "배"
+          },
+          {
+            "character": "に",
+            "phonetic": "ni",
+            "word": "にわ",
+            "mean": "마당"
+          },
+          {
+            "character": "ぬ",
+            "phonetic": "nu",
+            "word": "ぬりえ",
+            "mean": "색칠그림"
+          },
+          {
+            "character": "ね",
+            "phonetic": "ne",
+            "word": "ねこ",
+            "mean": "고양이"
+          },
+          {
+            "character": "の",
+            "phonetic": "no",
+            "word": "のり",
+            "mean": "김"
+          }
+        ]
+      },
+      {
+        "row": "は행",
+        "description": "",
+        "characters": [
+          {
+            "character": "は",
+            "phonetic": "ha",
+            "word": "はさみ",
+            "mean": "가위"
+          },
+          {
+            "character": "ひ",
+            "phonetic": "hi",
+            "word": "ひかり",
+            "mean": "빛"
+          },
+          {
+            "character": "ふ",
+            "phonetic": "hu",
+            "word": "ふね",
+            "mean": "배"
+          },
+          {
+            "character": "へ",
+            "phonetic": "he",
+            "word": "へや",
+            "mean": "방"
+          },
+          {
+            "character": "ほ",
+            "phonetic": "ho",
+            "word": "ほん",
+            "mean": "책"
+          }
+        ]
+      },
+      {
+        "row": "ま행",
+        "description": "",
+        "characters": [
+          {
+            "character": "ま",
+            "phonetic": "ma",
+            "word": "まめ",
+            "mean": "콩"
+          },
+          {
+            "character": "み",
+            "phonetic": "mi",
+            "word": "みみ",
+            "mean": "귀"
+          },
+          {
+            "character": "む",
+            "phonetic": "mu",
+            "word": "むすこ",
+            "mean": "아들"
+          },
+          {
+            "character": "め",
+            "phonetic": "me",
+            "word": "めん",
+            "mean": "국수"
+          },
+          {
+            "character": "も",
+            "phonetic": "mo",
+            "word": "もり",
+            "mean": "숲"
+          }
+        ]
+      },
+      {
+        "row": "や행",
+        "description": "",
+        "characters": [
+          {
+            "character": "や",
+            "phonetic": "ya",
+            "word": "やかん",
+            "mean": "주전자"
+          },
+          {},
+          {
+            "character": "ゆ",
+            "phonetic": "yu",
+            "word": "ゆめ",
+            "mean": "꿈"
+          },
+          {},
+          {
+            "character": "よ",
+            "phonetic": "yo",
+            "word": "よる",
+            "mean": "밤"
+          }
+        ]
+      },
+      {
+        "row": "ら행",
+        "description": "",
+        "characters": [
+          {
+            "character": "ら",
+            "phonetic": "ra",
+            "word": "らいねん",
+            "mean": "내년"
+          },
+          {
+            "character": "り",
+            "phonetic": "ri",
+            "word": "りす",
+            "mean": "다람쥐"
+          },
+          {
+            "character": "る",
+            "phonetic": "ru",
+            "word": "るす",
+            "mean": "부재중"
+          },
+          {
+            "character": "れ",
+            "phonetic": "re",
+            "word": "れんらく",
+            "mean": "연락"
+          },
+          {
+            "character": "ろ",
+            "phonetic": "ro",
+            "word": "ろうそく",
+            "mean": "촛불"
+          }
+        ]
+      },
+      {
+        "row": "わ행",
+        "description": "",
+        "characters": [
+          {
+            "character": "わ",
+            "phonetic": "wa",
+            "word": "わに",
+            "mean": "악어"
+          },
+          {},
+          {},
+          {},
+          {
+            "character": "を",
+            "phonetic": "wo",
+            "word": "すしをたべる",
+            "mean": "초밥을 먹다"
+          }
+        ]
+      },
+      {
+        "row": "ん행",
+        "description": "",
+        "characters": [
+          {
+            "character": "ん",
+            "phonetic": "n",
+            "word": "きん",
+            "mean": "금"
+          },
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "section": "탁음",
+    "description": "탁음은",
+    "kanji": "濁音",
+    "ruby": "だくおん",
+    "rows": [
+      {
+        "row": "が행",
+        "description": "「あ·い·う·え·お」는 일본어의 모음이며, 발음은 우리말의 [아·이·우·에·오]와 비슷하다.",
+        "characters": [
+          {
+            "character": "が",
+            "phonetic": "ga",
+            "word": "がいこく",
+            "mean": "외국"
+          },
+          {
+            "character": "ぎ",
+            "phonetic": "gi",
+            "word": "ぎんこう",
+            "mean": "은행"
+          },
+          {
+            "character": "ぐ",
+            "phonetic": "gu",
+            "word": "ぐんじん",
+            "mean": "군인"
+          },
+          {
+            "character": "げ",
+            "phonetic": "ge",
+            "word": "げた",
+            "mean": "일본 나막신"
+          },
+          {
+            "character": "ご",
+            "phonetic": "go",
+            "word": "ごはん",
+            "mean": "밥"
+          }
+        ]
+      },
+      {
+        "row": "ざ행",
+        "description": "「あ·い·う·え·お」는 일본어의 모음이며, 발음은 우리말의 [아·이·우·에·오]와 비슷하다.",
+        "characters": [
+          {
+            "character": "ざ",
+            "phonetic": "za",
+            "word": "ざりがに",
+            "mean": "가재"
+          },
+          {
+            "character": "じ",
+            "phonetic": "zi",
+            "word": "じしん",
+            "mean": "지진"
+          },
+          {
+            "character": "ず",
+            "phonetic": "zu",
+            "word": "ずつう",
+            "mean": "두통"
+          },
+          {
+            "character": "ぜ",
+            "phonetic": "ze",
+            "word": "ぜんこく",
+            "mean": "전국"
+          },
+          {
+            "character": "ぞ",
+            "phonetic": "zo",
+            "word": "ぞう",
+            "mean": "코끼리"
+          }
+        ]
+      },
+      {
+        "row": "だ행",
+        "description": "「あ·い·う·え·お」는 일본어의 모음이며, 발음은 우리말의 [아·이·우·에·오]와 비슷하다.",
+        "characters": [
+          {
+            "character": "だ",
+            "phonetic": "da",
+            "word": "だいこん",
+            "mean": "무"
+          },
+          {
+            "character": "ぢ",
+            "phonetic": "zi",
+            "word": "はなぢ",
+            "mean": "코피"
+          },
+          {
+            "character": "づ",
+            "phonetic": "zu",
+            "word": "てづくり",
+            "mean": "만든 것"
+          },
+          {
+            "character": "で",
+            "phonetic": "de",
+            "word": "でぐち",
+            "mean": "출구"
+          },
+          {
+            "character": "ど",
+            "phonetic": "do",
+            "word": "どろぼう",
+            "mean": "도둑"
+          }
+        ]
+      },
+      {
+        "row": "ば행",
+        "description": "「あ·い·う·え·お」는 일본어의 모음이며, 발음은 우리말의 [아·이·우·에·오]와 비슷하다.",
+        "characters": [
+          {
+            "character": "ば",
+            "phonetic": "ba",
+            "word": "ばら",
+            "mean": "장미"
+          },
+          {
+            "character": "び",
+            "phonetic": "bi",
+            "word": "びじん",
+            "mean": "미인"
+          },
+          {
+            "character": "ぶ",
+            "phonetic": "bu",
+            "word": "ぶどう",
+            "mean": "포도"
+          },
+          {
+            "character": "べ",
+            "phonetic": "be",
+            "word": "べんとう",
+            "mean": "도시락"
+          },
+          {
+            "character": "ぼ",
+            "phonetic": "bo",
+            "word": "ぼく",
+            "mean": "나"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "반탁음",
+    "description": "반탁음은 「」에서만 적용되고 반탁음 부호인 「」를 글자의 오른쪽 상단에 찍어서 발음한다.",
+    "kanji": "濁音",
+    "ruby": "だくおん",
+    "rows": [
+      {
+        "row": "が행",
+        "description": "「あ·い·う·え·お」는 일본어의 모음이며, 발음은 우리말의 [아·이·우·에·오]와 비슷하다.",
+        "characters": [
+          {
+            "character": "ぱ",
+            "phonetic": "pa",
+            "word": "ぱくぱく",
+            "mean": "덥석덥석"
+          },
+          {
+            "character": "ぴ",
+            "phonetic": "pi",
+            "word": "ぴかぴか",
+            "mean": "번쩍번쩍"
+          },
+          {
+            "character": "ぷ",
+            "phonetic": "pu",
+            "word": "ぷんぷん",
+            "mean": "몹시 화 난 모습"
+          },
+          {
+            "character": "ぺ",
+            "phonetic": "pe",
+            "word": "ぺこぺこ",
+            "mean": "몹시 배고픈 모습"
+          },
+          {
+            "character": "ぽ",
+            "phonetic": "po",
+            "word": "ぽかぴか",
+            "mean": "따끈따끈"
+          }
+        ]
+      }
+    ]
+  }
+]
