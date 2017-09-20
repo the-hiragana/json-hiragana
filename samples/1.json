@@ -1,9 +1,9 @@
-[
-  {
+{
+  "SeiOn": {
     "section": "청음",
-    "description": "청음이란 깨끗한 소리로 발음되는 것을 말한다.",
     "kanji": "清音",
-    "ruby": "せいおん",
+    "hurigana": "せいおん",
+    "description": "청음이란 깨끗한 소리로 발음되는 것을 말한다.",
     "rows": [
       {
         "row": "あ행",
@@ -341,12 +341,12 @@
         ]
       },
       {
-        "row": "ん",
+        "row": "ん행",
         "description": "우리말의 받침인 [ㄴ·ㅁ·ㅇ]에 가까운 발음이다. 뒤에 나오는 글자에 따라 발음이 바뀐다.",
         "characters": [
           {
             "character": "ん",
-            "phonetic": "n",
+            "phonetic": "ŋ",
             "word": "きん",
             "mean": "금"
           },
@@ -358,11 +358,11 @@
       }
     ]
   },
-  {
-    "section": "탁음",
-    "description": "청음에 탁음 부호 「゛」를 글자의 오른쪽 상단에 찍어서 발음한다.",
+  "DakuOn": {
+    "section": "탁음 반탁음",
+    "description": "청음에 탁음 부호 「゛」, 「゜」를 글자의 오른쪽 상단에 찍어서 발음한다.",
     "kanji": "濁音",
-    "ruby": "だくおん",
+    "hurigana": "だくおん",
     "rows": [
       {
         "row": "が행",
@@ -507,15 +507,7 @@
             "mean": "나"
           }
         ]
-      }
-    ]
-  },
-  {
-    "section": "반탁음",
-    "description": "청음에 반탁음 부호 「゜」를 글자의 오른쪽 상단에 작게 찍어서 발음한다.",
-    "kanji": "濁音",
-    "ruby": "だくおん",
-    "rows": [
+      },
       {
         "row": "ぱ행",
         "description": "[ぱ행]의 발음은 단어의 처음에 올 때는 영어의 [p]발음에 가까운 발음이고, 단어의 중간이나 뒤에 올 때는 우리말의 [ㅃ]에 가까운 발음이다.",
@@ -553,5 +545,277 @@
         ]
       }
     ]
+  },
+  "YōOn": {
+    "section": "요음",
+    "description": "[い단]글자에 [행]의 세 글자 [や][ゆ][よ]의 작은 글자를 결합시켜서 만든 글자를 요음이라고 한다. 글자는 두 개이지만, 한 박자의 음으로 발음한다.",
+    "kanji": "拗音",
+    "hurigana": "ようおん",
+    "rows": [
+      {
+        "row": "き행",
+        "description": "",
+        "characters": [
+          {
+            "character": "きゃ",
+            "phonetic": "kya",
+            "word": "きゃく",
+            "mean": "손님"
+          },
+          {
+            "character": "きゅ",
+            "phonetic": "kyu",
+            "word": "きゅうり",
+            "mean": "오이"
+          },
+          {
+            "character": "きょ",
+            "phonetic": "kyo",
+            "word": "きょうだい",
+            "mean": "형제"
+          }
+        ]
+      },
+      {
+        "row": "し행",
+        "description": "",
+        "characters": [
+          {
+            "character": "しゃ",
+            "phonetic": "sya",
+            "word": "しゃしん",
+            "mean": "사진"
+          },
+          {
+            "character": "しゅ",
+            "phonetic": "syu",
+            "word": "しゅみ",
+            "mean": "취미"
+          },
+          {
+            "character": "しょ",
+            "phonetic": "syo",
+            "word": "しょせつ",
+            "mean": "소설"
+          }
+        ]
+      },
+      {
+        "row": "ち행",
+        "description": "",
+        "characters": [
+          {
+            "character": "ちゃ",
+            "phonetic": "cha",
+            "word": "ちゃくりく",
+            "mean": "착륙"
+          },
+          {
+            "character": "ちゅ",
+            "phonetic": "chu",
+            "word": "ちゅうごく",
+            "mean": "중국"
+          },
+          {
+            "character": "ちょ",
+            "phonetic": "cho",
+            "word": "ちょうしょく",
+            "mean": "아침식사, 조식"
+          }
+        ]
+      },
+      {
+        "row": "に행",
+        "description": "",
+        "characters": [
+          {
+            "character": "にゃ",
+            "phonetic": "nya",
+            "word": "にゃあにゃあ",
+            "mean": "야옹야옹"
+          },
+          {
+            "character": "にゅ",
+            "phonetic": "nyu",
+            "word": "にゅうし",
+            "mean": "입시"
+          },
+          {
+            "character": "にょ",
+            "phonetic": "nyo",
+            "word": "にょうぼう",
+            "mean": "처"
+          }
+        ]
+      },
+      {
+        "row": "ひ행",
+        "description": "",
+        "characters": [
+          {
+            "character": "ひゃ",
+            "phonetic": "hya",
+            "word": "ひゃく",
+            "mean": "백"
+          },
+          {
+            "character": "ひゅ",
+            "phonetic": "hyu",
+            "word": "ひゅうひゅう",
+            "mean": "바람이 심하게 부는 모습"
+          },
+          {
+            "character": "ひょ",
+            "phonetic": "hyo",
+            "word": "ひょうか",
+            "mean": "평가"
+          }
+        ]
+      },
+      {
+        "row": "み행",
+        "description": "",
+        "characters": [
+          {
+            "character": "みゃ",
+            "phonetic": "mya",
+            "word": "みゃく",
+            "mean": "맥"
+          },
+          {
+            "character": "みょ",
+            "phonetic": "myu",
+            "word": "",
+            "mean": ""
+          },
+          {
+            "character": "みょ",
+            "phonetic": "myo",
+            "word": "みょうじ",
+            "mean": "성"
+          }
+        ]
+      },
+      {
+        "row": "り행",
+        "description": "",
+        "characters": [
+          {
+            "character": "りゃ",
+            "phonetic": "rya",
+            "word": "りゃくじ",
+            "mean": "약자"
+          },
+          {
+            "character": "りゅ",
+            "phonetic": "ryu",
+            "word": "りゅうこう",
+            "mean": "유행"
+          },
+          {
+            "character": "りょ",
+            "phonetic": "ryo",
+            "word": "りょうり",
+            "mean": "요리"
+          }
+        ]
+      },
+      {
+        "row": "ぎ행",
+        "description": "",
+        "characters": [
+          {
+            "character": "ぎゃ",
+            "phonetic": "gya",
+            "word": "ぎゃく",
+            "mean": "거꾸로 임"
+          },
+          {
+            "character": "ぎゅ",
+            "phonetic": "gyu",
+            "word": "ぎゅうにゅう",
+            "mean": "우유"
+          },
+          {
+            "character": "ぎょうじ",
+            "phonetic": "gyo",
+            "word": "ぎょうじ",
+            "mean": "행사"
+          }
+        ]
+      },
+      {
+        "row": "じ행",
+        "description": "",
+        "characters": [
+          {
+            "character": "じゃ",
+            "phonetic": "ja",
+            "word": "じゃがいも",
+            "mean": "감자"
+          },
+          {
+            "character": "じゅ",
+            "phonetic": "ju",
+            "word": "じゅうしょ",
+            "mean": "주소"
+          },
+          {
+            "character": "じょ",
+            "phonetic": "jo",
+            "word": "じょし",
+            "mean": "조사"
+          }
+        ]
+      },
+      {
+        "row": "び행",
+        "description": "",
+        "characters": [
+          {
+            "character": "びゃ",
+            "phonetic": "bya",
+            "word": "びゃくや",
+            "mean": "백야"
+          },
+          {
+            "character": "びゅ",
+            "phonetic": "byu",
+            "word": "びゅんびゅん",
+            "mean": "자동차 등 빠르게 지나가는 모양"
+          },
+          {
+            "character": "びょ",
+            "phonetic": "byo",
+            "word": "びょうき",
+            "mean": "병"
+          }
+        ]
+      },
+      {
+        "row": "ぴ행",
+        "description": "",
+        "characters": [
+          {
+            "character": "ぴゃ",
+            "phonetic": "pya",
+            "word": "はtぴゃく",
+            "mean": "팔백"
+          },
+          {
+            "character": "ぴゅ",
+            "phonetic": "pyu",
+            "word": "",
+            "mean": ""
+          },
+          {
+            "character": "ぴょ",
+            "phonetic": "pyo",
+            "word": "ぴょんぴょん",
+            "mean": "깡총깡총"
+          }
+        ]
+      }
+    ]
   }
-]
+}

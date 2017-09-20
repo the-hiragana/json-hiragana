@@ -1,0 +1,20 @@
+{
+  "hiragana": {
+    "kanji": "平仮名",
+    "hurigana": "ひらがな",
+    "description": "",
+    "contents": []
+  },
+  "katagana": {
+    "kanji": "片仮名",
+    "hurigana": "かたがな",
+    "description": "",
+    "contents": []
+  },
+  "kanji": {
+    "kanji": "漢字",
+    "hurigana": "かんじ",
+    "description": "",
+    "contents": []
+  }
+}

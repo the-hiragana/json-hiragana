@@ -6,7 +6,10 @@
   "author": "Gim YoungPhil <youngphil.gim@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "node ./data/hiragana.js"
+    "build0": "node ./data/h0.js",
+    "build1": "node ./data/h1.js",
+    "build2": "node ./data/h2.js",
+    "build3": "node ./data/h3.js"
   },
   "devDependencies": {
     "csvtojson": "^1.1.7",

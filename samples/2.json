@@ -1,0 +1,348 @@
+{
+  "HatsuOn": {
+    "section": "발음",
+    "kanji": "発音",
+    "word": "はつおん",
+    "character": "ん",
+    "description": "[ん]은 우리말의 받침과 같은 역할을 한다. 뒤에 오는 글자에 따라서 네 가지(ㄴ,ㅇ,ㅁ,ㄴ과 ㅇ의 중간음)으로 발음되며, 다른 글자와 마찬가지로 한 박자로 발음한다.",
+    "rows": [
+      {
+        "row": "1",
+        "description": "[ま][ば][ぱ]행의 앞에서는 [m]으로 발음한다.",
+        "characters": [
+          {
+            "kanji": "運命",
+            "word": "うんめい",
+            "mean": "운명"
+          },
+          {
+            "kanji": "昆布",
+            "word": "こんぶ",
+            "mean": "다시마"
+          },
+          {
+            "kanji": "鉛筆",
+            "word": "えんぴつ",
+            "mean": "연필"
+          },
+          {
+            "kanji": "文法",
+            "word": "ぶんぽう",
+            "mean": "문법"
+          }
+        ]
+      },
+      {
+        "row": "2",
+        "description": "[さ][ざ][た][だ][な][ら]행의 앞에서는 [n]으로 발음한다.",
+        "characters": [
+          {
+            "kanji": "",
+            "word": "",
+            "mean": ""
+          },
+          {
+            "kanji": "",
+            "word": "",
+            "mean": ""
+          },
+          {
+            "kanji": "",
+            "word": "",
+            "mean": ""
+          },
+          {
+            "kanji": "",
+            "word": "",
+            "mean": ""
+          },
+          {
+            "kanji": "",
+            "word": "",
+            "mean": ""
+          }
+        ]
+      },
+      {
+        "row": "3",
+        "description": "[か][が]행의 앞에서는 [ŋ]으로 발음한다.",
+        "characters": [
+          {
+            "kanji": "",
+            "word": "",
+            "mean": ""
+          },
+          {
+            "kanji": "",
+            "word": "",
+            "mean": ""
+          },
+          {
+            "kanji": "",
+            "word": "",
+            "mean": ""
+          },
+          {
+            "kanji": "",
+            "word": "",
+            "mean": ""
+          },
+          {
+            "kanji": "",
+            "word": "",
+            "mean": ""
+          }
+        ]
+      },
+      {
+        "row": "4",
+        "description": "단어의 끝에 오거나, [あ][は][や][わ]행의 앞에서는 [ŋ]과 [n]의 중간발음으로 [N]이 된다.",
+        "characters": [
+          {
+            "kanji": "",
+            "word": "",
+            "mean": ""
+          },
+          {
+            "kanji": "",
+            "word": "",
+            "mean": ""
+          },
+          {
+            "kanji": "",
+            "word": "",
+            "mean": ""
+          },
+          {
+            "kanji": "",
+            "word": "",
+            "mean": ""
+          },
+          {
+            "kanji": "",
+            "word": "",
+            "mean": ""
+          }
+        ]
+      }
+    ]
+  },
+  "SokuOn": {
+    "section": "발음",
+    "character": "",
+    "description": "",
+    "kanji": "",
+    "hurigana": "",
+    "rows": [
+      {
+        "row": "1",
+        "description": "[][][]행의 앞에서는 []으로 발음한다.",
+        "characters": [
+          {
+            "word": "ぱくぱく",
+            "mean": "운명"
+          },
+          {
+            "word": "ぴかぴか",
+            "mean": "다시마"
+          },
+          {
+            "word": "ぷんぷん",
+            "mean": "연필"
+          },
+          {
+            "word": "ぺこぺこ",
+            "mean": "문법"
+          }
+        ]
+      },
+      {
+        "row": "2",
+        "description": "[][][]행의 앞에서는 []으로 발음한다.",
+        "characters": [
+          {
+            "word": "",
+            "mean": ""
+          },
+          {
+            "word": "",
+            "mean": ""
+          },
+          {
+            "word": "",
+            "mean": ""
+          },
+          {
+            "word": "",
+            "mean": ""
+          },
+          {
+            "word": "",
+            "mean": ""
+          }
+        ]
+      },
+      {
+        "row": "3",
+        "description": "[][][]행의 앞에서는 []으로 발음한다.",
+        "characters": [
+          {
+            "word": "",
+            "mean": ""
+          },
+          {
+            "word": "",
+            "mean": ""
+          },
+          {
+            "word": "",
+            "mean": ""
+          },
+          {
+            "word": "",
+            "mean": ""
+          },
+          {
+            "word": "",
+            "mean": ""
+          }
+        ]
+      },
+      {
+        "row": "4",
+        "description": "[][][]행의 앞에서는 []으로 발음한다.",
+        "characters": [
+          {
+            "word": "",
+            "mean": ""
+          },
+          {
+            "word": "",
+            "mean": ""
+          },
+          {
+            "word": "",
+            "mean": ""
+          },
+          {
+            "word": "",
+            "mean": ""
+          },
+          {
+            "word": "",
+            "mean": ""
+          }
+        ]
+      }
+    ]
+  },
+  "ChōOn": {
+    "section": "발음",
+    "character": "",
+    "description": "",
+    "kanji": "",
+    "hurigana": "",
+    "rows": [
+      {
+        "row": "1",
+        "description": "[][][]행의 앞에서는 []으로 발음한다.",
+        "characters": [
+          {
+            "word": "ぱくぱく",
+            "mean": "운명"
+          },
+          {
+            "word": "ぴかぴか",
+            "mean": "다시마"
+          },
+          {
+            "word": "ぷんぷん",
+            "mean": "연필"
+          },
+          {
+            "word": "ぺこぺこ",
+            "mean": "문법"
+          }
+        ]
+      },
+      {
+        "row": "2",
+        "description": "[][][]행의 앞에서는 []으로 발음한다.",
+        "characters": [
+          {
+            "word": "",
+            "mean": ""
+          },
+          {
+            "word": "",
+            "mean": ""
+          },
+          {
+            "word": "",
+            "mean": ""
+          },
+          {
+            "word": "",
+            "mean": ""
+          },
+          {
+            "word": "",
+            "mean": ""
+          }
+        ]
+      },
+      {
+        "row": "3",
+        "description": "[][][]행의 앞에서는 []으로 발음한다.",
+        "characters": [
+          {
+            "word": "",
+            "mean": ""
+          },
+          {
+            "word": "",
+            "mean": ""
+          },
+          {
+            "word": "",
+            "mean": ""
+          },
+          {
+            "word": "",
+            "mean": ""
+          },
+          {
+            "word": "",
+            "mean": ""
+          }
+        ]
+      },
+      {
+        "row": "4",
+        "description": "[][][]행의 앞에서는 []으로 발음한다.",
+        "characters": [
+          {
+            "word": "",
+            "mean": ""
+          },
+          {
+            "word": "",
+            "mean": ""
+          },
+          {
+            "word": "",
+            "mean": ""
+          },
+          {
+            "word": "",
+            "mean": ""
+          },
+          {
+            "word": "",
+            "mean": ""
+          }
+        ]
+      }
+    ]
+  }
+}
